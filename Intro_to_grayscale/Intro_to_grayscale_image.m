@@ -1,3 +1,4 @@
+% Neil Rudra Mukherjee (ECE-Iot) IIIT Nagpur
 % Basic Introduction to Image processing ---> Read an Image , RGB channels
 % RGB to Grayscale image ,
 clc;
