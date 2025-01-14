@@ -10,4 +10,15 @@ Reading color images.
 
 Extracting individual color components (R, G, B).
 
+
+
+![image alt]()
+
+
+
 Converting color images to grayscale.
+
+
+
+
+![image alt]()
