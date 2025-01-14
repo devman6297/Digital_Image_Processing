@@ -1,4 +1,4 @@
-Digital Image Processing - Lab 1
+# Digital Image Processing - Lab 1
 
 Introduction to Color Images
 
