@@ -78,4 +78,32 @@ The CDF is overlaid on the histogram for both the original and equalized images 
 
 
 
+# Lab 3: Bit Plane Slicing
+
+## Overview
+This lab explores **Bit Plane Slicing**, a technique used in image processing to analyze and manipulate individual bit planes of an image. By decomposing an image into its binary representation, we can visualize how different bit planes contribute to the overall image structure. Lower bit planes capture finer details, while higher bit planes preserve significant image information.
+
+## Objectives
+- Understand the concept of bit plane slicing.
+- Extract and visualize different bit planes of an image.
+- Analyze the significance of each bit plane in image representation.
+
+## Implementation
+The program processes a grayscale image and extracts its **8-bit planes**, allowing observation of how each bit influences the image's appearance.
+
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/bit-plane-slicing.git
+   cd bit-plane-slicing
+
+
+
+
+
+
+
+
+
 
